@@ -1,0 +1,2 @@
+# ProiectSGBD
+SGBD Uni Project
